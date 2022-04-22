@@ -1,0 +1,157 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "latest": false,
+      "oldest": true,
+      "likes": true,
+      "dislikes": true,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "latest": false,
+      "oldest": true,
+      "likes": false,
+      "dislikes": true,
+      "title": "qui est esse",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "latest": false,
+      "oldest": true,
+      "likes": true,
+      "dislikes": false,
+      "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "latest": false,
+      "oldest": true,
+      "likes": false,
+      "dislikes": true,
+      "title": "eum et est occaecati",
+      "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
+    },
+    {
+      "id": 5,
+      "title": "My new Title",
+      "body": "My new Body",
+      "latest": false,
+      "oldest": true,
+      "likes": true,
+      "dislikes": false
+    },
+    {
+      "id": 6,
+      "title": "ReactJS Training",
+      "body": "Training is going On",
+      "latest": false,
+      "oldest": true,
+      "likes": true,
+      "dislikes": false
+    },
+    {
+      "id": 7,
+      "title": "hello guyz",
+      "body": "I am navigating to posts page",
+      "latest": false,
+      "oldest": true,
+      "likes": true,
+      "dislikes": false
+    },
+    {
+      "id": 8,
+      "title": "This is New Post",
+      "body": "I am redirecting to Latest Post section ",
+      "latest": false,
+      "oldest": true,
+      "likes": true,
+      "dislikes": false
+    },
+    {
+      "id": 9,
+      "title": "Hi this is new POst",
+      "body": "Hi this is new POst",
+      "latest": false,
+      "oldest": true,
+      "likes": false,
+      "dislikes": true
+    },
+    {
+      "id": 10,
+      "title": "this is the latest post",
+      "body": "this is the latest post with body",
+      "latest": false,
+      "oldest": true,
+      "likes": true,
+      "dislikes": false
+    },
+    {
+      "id": 11,
+      "title": "one more new data",
+      "body": "with new bosy",
+      "latest": false,
+      "oldest": true,
+      "likes": false,
+      "dislikes": true
+    },
+    {
+      "id": 12,
+      "title": "jbnmb",
+      "body": "mnb",
+      "latest": false,
+      "oldest": true,
+      "likes": true,
+      "dislikes": false
+    },
+    {
+      "id": 13,
+      "title": "New Post after admin login",
+      "body": "admin post",
+      "latest": false,
+      "oldest": true,
+      "likes": false,
+      "dislikes": true
+    },
+    {
+      "id": 14,
+      "title": "April 22 ",
+      "body": "This is the last Day of ReactJS Training",
+      "latest": true,
+      "oldest": false,
+      "likes": false,
+      "dislikes": false
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "manager@abc.com",
+      "password": "manager1234",
+      "name": "ABC",
+      "role": "Author"
+    },
+    {
+      "id": 2,
+      "email": "guest@abc.com",
+      "password": "guest1234",
+      "name": "XYZ",
+      "role": "Visitor"
+    },
+    {
+      "email": "pankaj@digi-safari.com",
+      "password": "pankaj1234",
+      "name": "Pankaj",
+      "role": "Visitor",
+      "id": 3
+    }
+  ]
+}
